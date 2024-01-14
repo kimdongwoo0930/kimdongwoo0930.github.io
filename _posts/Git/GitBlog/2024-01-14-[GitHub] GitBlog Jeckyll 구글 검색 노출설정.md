@@ -1,6 +1,6 @@
 ---
 date: 2024-01-14 12:10:00 +0900
-categories: [GitHub, GitBlog]
+categories: [GitHub,GitBlog]
 tags: [Git]
 ---
 
