@@ -1,7 +1,7 @@
 ---
 date: 2024-01-12 21:00:00 +0900
 categories: [GitHub,GitBlog]
-tags: [Git]
+tags: [GitBlog]
 ---
 
 ## Jeckyll Chripy 댓글기능

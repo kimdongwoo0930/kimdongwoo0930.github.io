@@ -1,7 +1,7 @@
 ---
 date: 2024-01-11 15:45:00 +0900
 categories: [GitHub,GitBlog]
-tags: [Git]
+tags: [GitBlog]
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 date: 2024-01-14 17:00:00 +0900
 categories: [GitHub,GitBlog]
-tags: [Git]
+tags: [GitBlog]
 ---
 
 # Google Adsense ( 구글 애드센스 )

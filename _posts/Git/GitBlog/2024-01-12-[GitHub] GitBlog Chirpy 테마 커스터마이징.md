@@ -1,7 +1,7 @@
 ---
 date: 2024-01-12 18:00:00 +0900
 categories: [GitHub,GitBlog]
-tags: [Git]
+tags: [GitBlog]
 ---
 
 # Chirpy 테마 커스터마이징 하기

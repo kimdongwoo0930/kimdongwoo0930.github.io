@@ -1,7 +1,7 @@
 ---
 date: 2024-01-14 12:10:00 +0900
 categories: [GitHub,GitBlog]
-tags: [Git]
+tags: [GitBlog]
 ---
 
 ## 검색엔진 노출
