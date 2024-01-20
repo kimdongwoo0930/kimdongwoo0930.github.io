@@ -4,7 +4,7 @@ categories: [GitHub,GitBlog]
 tags: [GitBlog]
 ---
 
-## Jeckyll Chripy 댓글기능
+## Jekyll Chripy 댓글기능
 
 ---
 
