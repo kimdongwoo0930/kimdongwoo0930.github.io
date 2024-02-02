@@ -20,7 +20,7 @@ title: Dong Log # the main title
 tagline: 동우의 개발일지 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  개발하는 나를 위한 블로그 동로그 입니다.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -199,4 +199,8 @@ jekyll-archives:
     category: /categories/:name/
 
 plugins:
+  - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
